@@ -1,0 +1,7 @@
+{
+  "watch": ["./src/server.ts"],
+  "ext": "ts js json",
+  "execMap": {
+    "ts": "node -r ts-node/register"
+  }
+}
